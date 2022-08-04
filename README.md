@@ -1,9 +1,9 @@
 # Project 1
-*** Hello there it's Neha Pandey.***
+__Hello there it's Neha Pandey.__
  
-This project is about the street style landing page.
+This project is about the street style home page.
 
-## challenges
+## Challenges
 
 Since this was my first project so there were lots of challenges for me which i have mentioned below :
 - how to center navigation menu
@@ -18,6 +18,6 @@ Since this was my first project so there were lots of challenges for me which i 
 
 ## Time Taken
 
-I could be able to complete this project in 8 hours.
+It took me 8 hours to complete this project.
 
 ![Image](./project1_img.png)
